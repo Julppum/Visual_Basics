@@ -1,9 +1,5 @@
 body {
     background-image: url(background_img.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    height: 100vh;
 }
 
 h1, h2 {
