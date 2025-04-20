@@ -1,5 +1,5 @@
 body {
-    background-image: url("background_img.png");
+    background-image: url(background_img.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -10,7 +10,7 @@ h1, h2 {
     border: solid 10px violet;
 }
 p {
-    background-color: fuchsia;
+    background-color: #ff00ff;
     border: solid 10px pink;
     border-radius: 10%;
 }
