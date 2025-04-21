@@ -6,7 +6,7 @@ body {
 }
 
 h1, h2 {
-    border: solid 10px dark-grey;
+    border: solid 10px grey;
     display: flex;
     justify-content: center;
     align-items: center;
