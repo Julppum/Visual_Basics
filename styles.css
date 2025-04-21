@@ -1,9 +1,8 @@
 body {
-    background-color: light-pink;
+    background-color: salmon;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 100vh; 
 }
 
 h1, h2 {
